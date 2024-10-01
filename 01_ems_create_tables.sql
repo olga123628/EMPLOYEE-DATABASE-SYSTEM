@@ -30,4 +30,10 @@ plocation varchar (40) not null,
 Dnum varchar (30) not null,
 foreign key (Dnum) references DEPARTNMENT (Dnumber));
 commit;
+--this table shows information on WORKS_ON
+create table WORKS_ON
+(Pno varchar (40) not null,
+Pname varchar (40) not null
+);
+commit;
 
