@@ -87,6 +87,11 @@ insert into WORKS_ON values ('101','TRAINING');
 insert into WORKS_ON values ('2001','CREATIVE');
 insert into WORKS_ON values ('300','BUDGETING');
 ```
+## Conceptual, Logical and Physical Data Model
+
+![alt text](IMAGE.png)
+
+
 
 ## Conclusion
 This Database shows how this company manages different Employees in different departnment with different project with each one should work_on this helps the company to manage their data well.
