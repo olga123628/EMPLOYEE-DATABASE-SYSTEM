@@ -98,9 +98,9 @@ UPDATE DEPARTNMENT SET DNAME='HUMAN RESOCERS' WHERE DNUMBER=4;
 ```
 commit;
 
-## Conceptual, Logical and Physical Data Model
+## CONCEPTUAL DIAGRAM
+![alt text](RELATIONSHIP DIAGRAM,CONCEPTUAL DIAGRAM.png)
 
-![alt text](Screenshot 2024-10-01 170236.png)
 
 
 
