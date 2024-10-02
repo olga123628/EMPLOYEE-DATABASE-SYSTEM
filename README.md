@@ -5,6 +5,7 @@ This README provides an overview of the Employee Database system inorder to mana
 ## Table Structures
 
 ### EMPLOYEES TABLE
+```sql
 create table EMPLOYEE
 ( Fname varchar (40) not null,
 Lname varchar (50) not null,
@@ -13,6 +14,7 @@ salary varchar (50) not null,
 Dno varchar (40) not null,
 primary key (Fname),
 foreign key (Dno) references DEPARTNMENT (Dnumber)
+```
 );
 
 ### DEPARTNMENT TABLE
