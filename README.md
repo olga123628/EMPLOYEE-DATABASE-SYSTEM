@@ -6,8 +6,8 @@ This README provides an overview of the Employee Database system inorder to mana
 
 ### EMPLOYEES TABLE
 ```sql
-create table EMPLOYEE
-( Fname varchar (40) not null,
+create table EMPLOYEE(
+Fname varchar (40) not null,
 Lname varchar (50) not null,
 sex varchar (50) not null,
 salary varchar (50) not null,
