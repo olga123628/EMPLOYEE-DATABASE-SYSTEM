@@ -1,6 +1,6 @@
-# EMPLOYEE DATABASE SYSSTEM
+# EMPLOYEE DATABASE SYSTEM
 .
-This README provides an overview of the Employee Database system inorder to manage and store information related to employees and organizational structure. It includes tables for EMPLOYEES, DEPARTNMENT,  PROJECT , DEPART_LOCATION and WORKS_ON records
+This README provides an overview of the Employee Database system inorder to manage and store information related to employees with any organizational  structure. It includes tables for EMPLOYEES, DEPARTNMENT,  PROJECT , DEPART_LOCATION and WORKS_ON records which this company uses to manage their activity which happen in different area.
 
 ## Table Structures
 
