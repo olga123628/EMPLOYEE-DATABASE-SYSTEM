@@ -89,7 +89,8 @@ insert into WORKS_ON values ('300','BUDGETING');
 ```
 ## Conceptual, Logical and Physical Data Model
 
-![alt text](IMAGE.png)
+![alt text](IMAGE .png)
+
 
 
 
