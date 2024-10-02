@@ -100,7 +100,7 @@ commit;
 
 ## Conceptual, Logical and Physical Data Model
 
-![alt text](IMAGE .png)
+![alt text](Screenshot 2024-10-01 170236.png)
 
 
 
