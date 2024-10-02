@@ -50,6 +50,11 @@ create table WORKS_ON
 Pname varchar (40) not null
 );
 ```
+
+```sql
+### SELECT  AND UPDATE
+```
+
 ## Inserting records
 
 To insert records into the tables, you can use the following examples:
@@ -87,6 +92,14 @@ insert into WORKS_ON values ('101','TRAINING');
 insert into WORKS_ON values ('2001','CREATIVE');
 insert into WORKS_ON values ('300','BUDGETING');
 ```
+
+```sql
+SELECT LNAME FROM EMPLOYEE WHERE DNO=2;
+SELECT FNAME FROM EMPLOYEE WHERE DNO=4;
+UPDATE DEPARTNMENT SET DNAME='HUMAN RESOCERS' WHERE DNUMBER=4;
+```
+commit;
+
 ## Conceptual, Logical and Physical Data Model
 
 ![alt text](IMAGE .png)
